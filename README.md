@@ -1,2 +1,2 @@
 # pygame-snake
-reviving back the od snake game using pygame
+Reviving back the Snake Game using Pygame
